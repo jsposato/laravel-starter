@@ -18,7 +18,7 @@ vendor/
 .env.*.php
 .env.php
 .env
-
+/storage/*
 
 #!! ERROR: git is undefined. Use list command to see defined gitignore types !!#
 
@@ -28,7 +28,8 @@ vendor/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -97,3 +98,5 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 
+
+tests/_output/*
