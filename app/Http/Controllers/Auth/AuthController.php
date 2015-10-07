@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Jsposato\Http\Controllers\Auth;
 
-use App\User;
+use Jsposato\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Jsposato\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Jsposato\Events;
 
 abstract class Event
 {
