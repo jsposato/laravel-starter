@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Jsposato\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
