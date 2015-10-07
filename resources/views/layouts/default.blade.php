@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- CSS are placed here -->
-    {!! HTML::style('d3pkagxlyv1cfw.cloudfront.net/css/bootstrap.min.css') !!}
-    {!! HTML::style('d3pkagxlyv1cfw.cloudfront.net/css/bootstrap-theme.min.css') !!}
+    {!! HTML::style('https://d3pkagxlyv1cfw.cloudfront.net/css/bootstrap.min.css') !!}
+    {!! HTML::style('https://d3pkagxlyv1cfw.cloudfront.net/css/bootstrap-theme.min.css') !!}
 
     <style>
         body {
@@ -45,5 +45,5 @@
 @yield( 'footer' )
         <!-- End Footer -->
 
-{!! HTML::script('d3pkagxlyv1cfw.cloudfront.net/js/jquery-1.11.3.min.js') !!}
-{!! HTML::script('d3pkagxlyv1cfw.cloudfront.net/js/bootstrap.min.js') !!}
+{!! HTML::script('https://d3pkagxlyv1cfw.cloudfront.net/js/jquery-1.11.3.min.js') !!}
+{!! HTML::script('https://d3pkagxlyv1cfw.cloudfront.net/js/bootstrap.min.js') !!}
